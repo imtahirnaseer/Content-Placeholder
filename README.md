@@ -30,7 +30,7 @@ The project includes the following files:
 
 When the page first loads, animated placeholders are shown while waiting for the content.
 
-![Placeholder State](image1.png)
+![Placeholder State](https://github.com/imtahirnaseer/Content-Placeholder/blob/680ae43e1978ff122ea3beaa395323a3eeab905a/Screenshot%202024-12-08%20182052.png)
 
 ---
 
@@ -38,7 +38,7 @@ When the page first loads, animated placeholders are shown while waiting for the
 
 After the loading process completes (2.5 seconds), the actual content is displayed.
 
-![Content Loaded State](image2.png)
+![Content Loaded State](https://github.com/imtahirnaseer/Content-Placeholder/blob/680ae43e1978ff122ea3beaa395323a3eeab905a/Screenshot%202024-12-08%20182105.png)
 
 ---
 
